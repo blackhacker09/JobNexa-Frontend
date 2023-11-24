@@ -22,4 +22,4 @@ JobNexa is a simple job listing app built with MERN Stack that allows the user t
  <li>The platform boasts a simple UI for an enhanced user experience.</li>
 </ul>
 
-### For Back End click [Here](https://github.com/blackhacker09/JobNexa-Backend)
+### For BackEnd click [Here](https://github.com/blackhacker09/JobNexa-Backend)
